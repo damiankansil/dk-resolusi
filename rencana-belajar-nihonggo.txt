@@ -5,6 +5,7 @@ RENCANA BELAJAR NIHONGGO
 - Huruf dan karakter
   * Hiragana
   * Katakana
-  * Kanji
   * Romaji
 - Budaya
+  * Festival
+  * Acara Tahunan
