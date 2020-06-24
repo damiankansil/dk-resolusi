@@ -2,10 +2,11 @@ RENCANA BELAJAR NIHONGGO
 
 - Pengucapan
 - Gaya Bahasa
+ * Slang
 - Huruf dan karakter
   * Hiragana
   * Katakana
   * Romaji
 - Budaya
-  * Festival
-  * Acara Tahunan
+  * Bow
+  * Kimono
